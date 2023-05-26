@@ -1,9 +1,11 @@
 # html_ejemplos
-Ejemplos de html 
+ 
 
-### HTML introducion 
+###  introducion a ciencia de datos 
 
-se realiza una breve introducion de archivos HTML . 
+se realiza una breve introducion de archivos XML .  XML es un lenguaje de marcado similar a HTML. Significa Extensible Markup Language (Lenguaje de Marcado Extensible) y es una especificación de W3C como lenguaje de marcado de propósito general. Esto significa que, a diferencia de otros lenguajes de marcado, XML no está predefinido, por lo que debes definir tus propias etiquetas. El propósito principal del lenguaje es compartir datos a través de diferentes sistemas, como Internet.
+
+
 
 
 
