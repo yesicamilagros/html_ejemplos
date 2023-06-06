@@ -15,6 +15,7 @@ se realiza una breve introducion de archivos XML .  XML es un lenguaje de marcad
 ```
 
 
+![image](https://github.com/yesicamilagros/html_ejemplos/assets/102852467/7e60bd56-abeb-4f60-b65d-e7987436d12b)
 
 
 
