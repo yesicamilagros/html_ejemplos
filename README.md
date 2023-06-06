@@ -30,5 +30,8 @@ se realiza una breve introducion de archivos XML .  XML es un lenguaje de marcad
 DIBUJO  MINECRAFT
 
 
+![image](https://github.com/yesicamilagros/html_ejemplos/assets/102852467/122f8a3d-00fc-484d-8ec6-554618f09f8c)
+
+
 
 
