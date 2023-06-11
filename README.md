@@ -4,7 +4,7 @@
 
 ###  introducion 
 
- HTML (lenguaje de marcas de hipertexto) es un lenguaje estatico ,que define la estructura de nuestro documento basados en sitios web  mientras que JAVASCRIPT es un lenguaje dinamico de scripting basado en objetos.Se puede utilizar en frontend/backend
+ HTML (lenguaje de marcas de hipertexto) es un lenguaje estatico ,que define la estructura de nuestro documento basados en sitios web  mientras que JAVASCRIPT (JS) es un lenguaje dinamico de scripting basado en objetos.Se puede utilizar en frontend/backend
 
 ```
 <message>
